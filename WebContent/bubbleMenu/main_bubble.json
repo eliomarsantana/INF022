@@ -1,0 +1,44 @@
+{"name":"bubble", "children": [
+{"name":"Norte","description":"Regi\u00e3o Norte",
+"children":[
+    {"name": "Rond\u00f4nia","address":"http://gli.environment.umn.edu", "note":"Extens\u00e3o Territorial: 237.765,376"},
+    {"name": "Acre","address":"http://d3js.org", "note":"Extensão Territorial: 164.123,712"},
+    {"name": "Amazonas","address":"http://environment.umn.edu", "note":"Extens\u00e3o Territorial: 1.559.149,074"},
+    {"name": "Roraima","address":"http://environment.umn.edu", "note":"Extens\u00e3o Territorial: 224.301,080"},
+    {"name": "Par\u00e1","address":"http://environment.umn.edu", "note":"Extens\u00e3o Territorial: 1.247.955,381"},
+    {"name": "Amap\u00e1","address":"http://environment.umn.edu", "note":"Extens\u00e3o Territorial: 142.828,523"},
+    {"name": "Tocantins","address":"http://environment.umn.edu", "note":"Extens\u00e3o Territorial: 277.720,567"}  
+]},
+{"name": "Nordeste", "description": "Regi\u00e3o Nordeste",
+"children":[
+    {"name":"Maranh\u00e3o","address":"http://d3js.org","note":"Extens\u00e3o Territorial: 331.936,955"},
+    {"name":"Piau\u00ed","address":"http://d3js.org", "note":"Extens\u00e3o Territorial: 251.611,934"},
+    {"name":"Cear\u00e1","address":"http://sunsp.net", "note":"Extens\u00e3o Territorial: 148.887,632"},
+    {"name":"Rio Grande do Norte","address":"http://sunsp.net", "note":"Extens\u00e3o Territorial: 52.811,110"},
+    {"name":"Para\u00edba","address":"http://sunsp.net", "note":"Extens\u00e3o Territorial: 56.468,427"},
+    {"name":"Pernambuco","address":"http://sunsp.net", "note":"Extens\u00e3o Territorial: 98.076,001"},
+    {"name":"Alagoas","address":"http://sunsp.net", "note":"Extens\u00e3o Territorial: 27.848,158"},
+    {"name":"Sergipe","address":"http://sunsp.net", "note":"Extens\u00e3o Territorial: 21.918,454"},
+    {"name":"Bahia","address":"http://sunsp.net", "note":"Extens\u00e3o Territorial: 564.732,642"}
+]},
+{"name":"Sudeste", "description":"Regi\u00e3o Sudeste",
+"children":[
+    {"name":"Minas Gerais","address":"http://d3js.org", "note":"Extens\u00e3o Territorial: 586.521,235"},
+    {"name":"Esp\u00edrito Santo","address":"http://d3js.org", "note":"Extens\u00e3o Territorial: 46.089,390"},
+    {"name":"Rio de Janeiro","address":"http://d3js.org", "note":"Extens\u00e3o Territorial: 43.781,566"},
+    {"name":"S\u00e3o Paulo","address":"http://uis.edu/ens", "note":"Extens\u00e3o Territorial: 248.221,996"}
+]},
+{"name":"Sul", "description":"Regi\u00e3o Sul",
+"children":[
+    {"name":"Paran\u00e1","address":"http://www.earthstat.org/", "note":"Extens\u00e3o Territorial: 199.307,985"},
+    {"name":"Santa Catarina","address":"http://www.earthstat.org/", "note":"Extens\u00e3o Territorial: 95.737,895"},
+    {"name":"Rio Grande do Sul","address":"http://www.earthstat.org/", "note":"Extens\u00e3o Territorial: 281.737,947"}
+]},
+{"name":"Centro-Oeste", "description":"Regi\u00e3o Centro-Oeste",
+"children":[
+    {"name":"Mato Grosso do Sul","address":"http://www.earthstat.org/", "note":"Extens\u00e3o Territorial: 357.145,534"},
+    {"name":"Mato Grosso","address":"http://www.earthstat.org/", "note":"Extens\u00e3o Territorial: 903.198,091"},
+    {"name":"Goi\u00e1s","address":"http://www.earthstat.org/", "note":"Extens\u00e3o Territorial: 340.110,385"},
+    {"name":"Distrito Federal","address":"http://www.earthstat.org/", "note":"Extens\u00e3o Territorial: 5.779,999"}
+]}
+]}

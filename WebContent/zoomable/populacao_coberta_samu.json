@@ -1,0 +1,290 @@
+{
+ "name": "brasil",
+ "children": [
+  {
+   "name": "2014",
+   "children": [
+    {
+     "name": "nordeste",
+     "children": [
+      {"size":3300938,"name":"Alagoas","ano":2014},
+      {"size":12557022,"name":"Bahia","ano":2014},
+      {"size":4798951,"name":"Ceará","ano":2014},
+      {"size":3505603,"name":"Maranhão","ano":2014},
+      {"size":3914418,"name":"Paraíba","ano":2014},
+      {"size":7043357,"name":"Pernambuco","ano":2014},
+      {"size":2424885,"name":"Piauí","ano":2014},
+	  {"size":2217680,"name":"Rio Grande do Norte","ano":2014},
+	  {"size":2195662,"name":"Sergipe","ano":2014}
+     ]
+    },
+    {
+     "name": "norte",
+     "children": [
+      {"size":776463,"name":"Acre","ano":2014},
+      {"size":1982179,"name":"Amazonas/AM","ano":2014},
+      {"size":554635,"name":"Amapá","ano":2014},
+      {"size":5067700,"name":"Pará","ano":2014},
+      {"size":586261,"name":"Rondônia","ano":2014},
+      {"size":488072,"name":"Roraima","ano":2014},
+      {"size":666193,"name":"Tocantins","ano":2014}
+     ]
+    },
+    {
+     "name": "sudeste",
+     "children": [
+      {"size":776463,"name":"Minas Gerais","ano":2014},
+      {"size":1982179,"name":"Espirito Santo","ano":2014},
+      {"size":554635,"name":"Rio de Janeiro","ano":2014},
+      {"size":5067700,"name":"São Paulo","ano":2014}
+     ]
+    },
+    {
+     "name": "sul",
+     "children": [
+      {"size":776463,"name":"Paraná","ano":2014},
+      {"size":1982179,"name":"Santa Catarina","ano":2014},
+      {"size":666193,"name":"Rio Grande do Sul","ano":2014}
+     ]
+    },
+    {
+     "name": "centro-oeste",
+     "children": [
+      {"size":776463,"name":"Mato Grosso do Sul","ano":2014},
+      {"size":1982179,"name":"Mato Grosso","ano":2014},
+      {"size":554635,"name":"Goiás","ano":2014},
+      {"size":5067700,"name":"Distrito Federal","ano":2014}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "2013",
+   "children": [
+    {
+     "name": "nordeste",
+     "children": [
+      {"size":3300938,"name":"Alagoas","ano":2013},
+      {"size":12557022,"name":"Bahia","ano":2013},
+      {"size":4798951,"name":"Ceará","ano":2013},
+      {"size":3505603,"name":"Maranhão","ano":2013},
+      {"size":3914418,"name":"Paraíba","ano":2013},
+      {"size":7043357,"name":"Pernambuco","ano":2013},
+      {"size":2424885,"name":"Piauí","ano":2013},
+	  {"size":2217680,"name":"Rio Grande do Norte","ano":2013},
+	  {"size":2195662,"name":"Sergipe","ano":2013}
+     ]
+    },
+    {
+     "name": "norte",
+     "children": [
+      {"size":776463,"name":"Acre","ano":2013},
+      {"size":1982179,"name":"Amazonas","ano":2013},
+      {"size":554635,"name":"Amapá","ano":2013},
+      {"size":5067700,"name":"Pará","ano":2013},
+      {"size":586261,"name":"Rondônia","ano":2013},
+      {"size":488072,"name":"Roraima","ano":2013},
+      {"size":666193,"name":"Tocantins","ano":2013}
+     ]
+    },
+    {
+     "name": "sudeste",
+     "children": [
+      {"size":776463,"name":"Minas Gerais","ano":2013},
+      {"size":1982179,"name":"Espirito Santo","ano":2013},
+      {"size":554635,"name":"Rio de Janeiro","ano":2013},
+      {"size":5067700,"name":"São Paulo","ano":2013}
+     ]
+    },
+    {
+     "name": "sul",
+     "children": [
+      {"size":776463,"name":"Paraná","ano":2013},
+      {"size":1982179,"name":"Santa Catarina","ano":2013},
+      {"size":666193,"name":"Rio Grande do Sul","ano":2013}
+     ]
+    },
+    {
+     "name": "centro-oeste",
+     "children": [
+      {"size":776463,"name":"Mato Grosso do Sul","ano":2013},
+      {"size":1982179,"name":"Mato Grosso","ano":2013},
+      {"size":554635,"name":"Goiás","ano":2013},
+      {"size":5067700,"name":"Distrito Federal","ano":2013}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "2012",
+   "children": [
+    {
+     "name": "nordeste",
+     "children": [
+      {"size":3120494,"name":"Alagoas","ano":2012},
+      {"size":9890512,"name":"Bahia","ano":2012},
+      {"size":4591605,"name":"Ceará","ano":2012},
+      {"size":3328430,"name":"Maranhão","ano":2012},
+      {"size":3766528,"name":"Paraíba","ano":2012},
+      {"size":5407137,"name":"Pernambuco","ano":2012},
+      {"size":2445815,"name":"Piauí","ano":2012},
+	  {"size":1803473,"name":"Rio Grande do Norte","ano":2012},
+	  {"size":2068017,"name":"Sergipe","ano":2012}
+     ]
+    },
+    {
+     "name": "norte",
+     "children": [
+      {"size":733559,"name":"Acre","ano":2012},
+      {"size":1802014,"name":"Amazonas","ano":2012},
+      {"size":507535,"name":"Amapá","ano":2012},
+      {"size":3905774,"name":"Pará","ano":2012},
+      {"size":518880,"name":"Rondônia","ano":2012},
+      {"size":313144,"name":"Roraima","ano":2012},
+      {"size":609715,"name":"Tocantins","ano":2012}
+     ]
+    },
+    {
+     "name": "sudeste",
+     "children": [
+      {"size":9412436,"name":"Minas Gerais","ano":2012},
+      {"size":1796285,"name":"Espirito Santo","ano":2012},
+      {"size":13207385,"name":"Rio de Janeiro","ano":2012},
+      {"size":32889207,"name":"São Paulo","ano":2012}
+     ]
+    },
+    {
+     "name": "sul",
+     "children": [
+      {"size":6533764,"name":"Paraná","ano":2012},
+      {"size":6248436,"name":"Santa Catarina","ano":2012},
+      {"size":8767690,"name":"Rio Grande do Sul","ano":2012}
+     ]
+    },
+    {
+     "name": "centro-oeste",
+     "children": [
+      {"size":1164847,"name":"Mato Grosso do Sul","ano":2012},
+      {"size":1148938,"name":"Mato Grosso","ano":2012},
+      {"size":6003788,"name":"Goiás","ano":2012},
+      {"size":2570160,"name":"Distrito Federal","ano":2012}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "2011",
+   "children": [
+    {
+     "name": "nordeste",
+     "children": [
+      {"size":3120494,"name":"Alagoas","ano":2011},
+      {"size":9890512,"name":"Bahia","ano":2011},
+      {"size":4591605,"name":"Ceará","ano":2011},
+      {"size":3152882,"name":"Maranhão","ano":2011},
+      {"size":3766528,"name":"Paraíba","ano":2011},
+      {"size":5407137,"name":"Pernambuco","ano":2011},
+      {"size":2445815,"name":"Piauí","ano":2011},
+	  {"size":1803473,"name":"Rio Grande do Norte","ano":2011},
+	  {"size":2068017,"name":"Sergipe","ano":2011}
+     ]
+    },
+    {
+     "name": "norte",
+     "children": [
+      {"size":733559,"name":"Acre","ano":2011},
+      {"size":1802014,"name":"Amazonas","ano":2011},
+      {"size":507535,"name":"Amapá","ano":2011},
+      {"size":2593122,"name":"Pará","ano":2011},
+      {"size":428527,"name":"Rondônia","ano":2011},
+      {"size":313144,"name":"Roraima","ano":2011},
+      {"size":609715,"name":"Tocantins","ano":2011}
+     ]
+    },
+    {
+     "name": "sudeste",
+     "children": [
+      {"size":8228396,"name":"Minas Gerais","ano":2011},
+      {"size":1796285,"name":"Espirito Santo","ano":2011},
+      {"size":12104625,"name":"Rio de Janeiro","ano":2011},
+      {"size":29956797,"name":"São Paulo","ano":2011}
+     ]
+    },
+    {
+     "name": "sul",
+     "children": [
+      {"size":5764300,"name":"Paraná","ano":2011},
+      {"size":6248436,"name":"Santa Catarina","ano":2011},
+      {"size":8767690,"name":"Rio Grande do Sul","ano":2011}
+     ]
+    },
+    {
+     "name": "centro-oeste",
+     "children": [
+      {"size":1164847,"name":"Mato Grosso do Sul","ano":2011},
+      {"size":1148938,"name":"Mato Grosso","ano":2011},
+      {"size":6003788,"name":"Goiás","ano":2011},
+      {"size":2570160,"name":"Distrito Federal","ano":2011}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "2010",
+   "children": [
+    {
+     "name": "nordeste",
+     "children": [
+      {"size":3120494,"name":"Alagoas","ano":2010},
+      {"size":9360874,"name":"Bahia","ano":2010},
+      {"size":4591605,"name":"Ceará","ano":2010},
+      {"size":3152882,"name":"Maranhão","ano":2010},
+      {"size":3487241,"name":"Paraíba","ano":2010},
+      {"size":5407137,"name":"Pernambuco","ano":2010},
+      {"size":1343902,"name":"Piauí","ano":2010},
+	  {"size":1803473,"name":"Rio Grande do Norte","ano":2010},
+	  {"size":2068017,"name":"Sergipe","ano":2010}
+     ]
+    },
+    {
+     "name": "norte",
+     "children": [
+      {"size":733559,"name":"Acre","ano":2010},
+      {"size":1802014,"name":"Amazonas","ano":2010},
+      {"size":507535,"name":"Amapá","ano":2010},
+      {"size":2593122,"name":"Pará","ano":2010},
+      {"size":428527,"name":"Rondônia","ano":2010},
+      {"size":313144,"name":"Roraima","ano":2010},
+      {"size":609715,"name":"Tocantins","ano":2010}
+     ]
+    },
+    {
+     "name": "sudeste",
+     "children": [
+      {"size":8228396,"name":"Minas Gerais","ano":2010},
+      {"size":1796285,"name":"Espirito Santo","ano":2010},
+      {"size":11861125,"name":"Rio de Janeiro","ano":2010},
+      {"size":27611008,"name":"São Paulo","ano":2010}
+     ]
+    },
+    {
+     "name": "sul",
+     "children": [
+      {"size":5764300,"name":"Paraná","ano":2010},
+      {"size":6248436,"name":"Santa Catarina","ano":2010},
+      {"size":8767690,"name":"Rio Grande do Sul","ano":2010}
+     ]
+    },
+    {
+     "name": "centro-oeste",
+     "children": [
+      {"size":776463,"name":"Mato Grosso do Sul","ano":2010},
+      {"size":1982179,"name":"Mato Grosso","ano":2010},
+      {"size":554635,"name":"Goiás","ano":2010},
+      {"size":5067700,"name":"Distrito Federal","ano":2010}
+     ]
+    }
+   ]
+  }
+ ]
+}
